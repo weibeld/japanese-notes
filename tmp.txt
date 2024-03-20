@@ -1,0 +1,6 @@
+- Reststrichzahl: residual stroke count
+  - Stroke count of a kanji beyond its radical
+- 79 radicals are a subset of the 214 Kangxi radicals
+  - https://www.hadamitzky.de/deutsch/sl_radikal.htm
+- There is no "correct" radical of a kanji but just conventions that formed over time
+  - Specific dictionaries may (and often do) deviate from this convention by coming up with their own rules about which component is the radical of the kanji

@@ -31,6 +31,8 @@
 | Kanji coverage      | ~2000               |
 | Link                | [Amazon](https://a.co/d/2nTSSeN) |
 
+- Etymology
+
 ## A Guide to Remembering Japanese Characters
 
 | Property            | Value               |
@@ -50,7 +52,7 @@
 
 | Property            | Value               |
 |---------------------|---------------------|
-| Author              | Wolfgang Hadamitzky, Mark Spahn |
+| Author              | Wolfgang Hadamitzky & Mark Spahn |
 | Edition             | 1                   |
 | Year of publication | 2012                |
 | Publisher           | Tuttle              |
@@ -74,6 +76,57 @@
 
 - **Coverage:** all Jōyō kanji
 - **Scripts:** kanji and romaji (no kana)
+
+## Kanji und Kana: Die Welt der japanischen Schrift in einem Band
+
+| Property            | Value               |
+|---------------------|---------------------|
+| Author              | Wolfgang Hadamitzky |
+| Edition             | 1                   |
+| Year of publication | 2012                |
+| Publisher           | Iudicium            |
+| Pages               | 424                 |
+| Dimensions          | 15.6×21.1 cm      |
+| Kanji coverage      | ~2000               |
+| Link                | [Amazon](https://amzn.eu/d/dQjKDfJ) |
+
+
+
+## Kanji & Kana: Lehrbuch und Lexikon der japanischen Schrift
+
+| Property            | Value               |
+|---------------------|---------------------|
+| Author              | Wolfgang Hadamitzky |
+| Edition             | 3                   |
+| Year of publication | 1995 (1979, 1980)   |
+| Publisher           | Langenscheidt (Enderle) |
+| Pages               | 430 (378, 379)      |
+| Dimensions          | 15.24×22.86 cm      |
+| Kanji coverage      | ~2000               |
+| Link                | [Amazon](https://amzn.eu/d/aSppqEO) ([Homepage](https://www.hadamitzky.de/deutsch/werke_buecher.htm) \| [Amazon](https://amzn.eu/d/2sqLy5r)) |
+
+- Predecessor of [Kanji und Kana: Die Welt der japanischen Schrift in einem Band](#kanji-und-kana-die-welt-der-japanischen-schrift-in-einem-band)
+
+## Kanji & Kana: A Handbook of the Japanese Writing System
+
+| Property            | Value               |
+|---------------------|---------------------|
+| Author              | Wolfgang Hadamitzky & Mark Spahn |
+| Edition             | 3                   |
+| Year of publication | 1997 (1981, 1989)   |
+| Publisher           | Tuttle              |
+| Pages               | 427 (392, 392)           |
+| Dimensions          | 14.6×19.69 cm       |
+| Kanji coverage      | ~2000               |
+| Link                | [Amazon](https://a.co/d/j6Wcbgy) ([Amazon](https://a.co/d/3PpQTJe)) |
+
+- English version of [Kanji & Kana: Lehrbuch und Lexikon der japanischen Schrift](#kanji-kana-lehrbuch-und-lexikon-der-japanischen-schrift)
+- Predecessor of [Japanese Kanji & Kana: A Complete Guide to the Japanese Writing System](#japanese-kanji-kana-a-complete-guide-to-the-japanese-writing-system)
+- Three indexes:
+  1. Radical (traditional 214 Kangxi radical system)
+  2. Stroke count
+  3. Readings (on-yomi and kun-yomi)
+
 
 # Remember This! Kanji Dictionary for Foreigners Learning Japanese
 
