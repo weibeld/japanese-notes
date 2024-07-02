@@ -69,6 +69,8 @@
 ##### Notes
 
 - German translation of [Japanese Character Dictionary](#japanese-character-dictionary)
+- Out of print, hard to get a new copy, some used copies are sold on Amazon, etc.
+
 
 ### The Learner's Japanese Kanji Dictionary: Find Any Compound Using Any of Its Component Characters
 
