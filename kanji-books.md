@@ -127,6 +127,20 @@
   2. Stroke count
   3. Readings (on-yomi and kun-yomi)
 
+## The Kodansha Kanji Learner's Course: A Step-by-Step Guide to Mastering 2300 Characters
+
+| Property            | Value               |
+|---------------------|---------------------|
+| Author              | Andrew Scott Conning |
+| Edition             | 1                   |
+| Year of publication | 2013                |
+| Publisher           | Kodansha            |
+| Pages               | 720                 |
+| Dimensions          | 15.24×22.86×2.54 cm |
+| Kanji coverage      | ~2300               |
+| Link                | [Amazon](https://a.co/d/5iVJD7i) |
+
+- TODO: review
 
 # Remember This! Kanji Dictionary for Foreigners Learning Japanese
 
