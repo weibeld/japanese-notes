@@ -10,6 +10,8 @@
 - [Unidirectional: To Japanese](#unidirectional-to-japanese)
   - [Kodansha's Furigana English-Japanese Dictionary](#kodanshas-furigana-english-japanese-dictionary)
   - [Kodansha's Basic English-Japanese Dictionary](#kodanshas-basic-english-japanese-dictionary)
+  - [The Modern English-Nihongo Dictionary (Kodansha)](#the-modern-english-nihongo-dictionary-kodansha)
+  - [Kodansha's Communicative English-Japanese Dictionary](#kodanshas-communicative-english-japanese-dictionary)
 - [Bidirectional](#bidirectional)
   - [Kodansha's Furigana Japanese Dictionary](#kodanshas-furigana-japanese-dictionary)
   - [Oxford Beginner's Japanese Dictionary](#oxford-beginners-japanese-dictionary)
@@ -44,8 +46,10 @@
 
 - Entries in kanji with furigana (no romaji).
 - Entries in kana order.
+- Layout mixes Helvetica with Palatino, which is not very pleasant, not much contrast between entries.
+- Furigana is very small (e.g. on example sentences).
 - For English-Japanese, see _Kodansha's Furigana English-Japanese Dictionary_
-- For a bidirectional work with both Japanese-English and English-Japanese, see _Kodansha's Furigana Japanese Dictionary_.
+- For the English-Japanese and Japanese-English dictionaries combined, see  _Kodansha's Furigana Japanese Dictionary_.
 
 ### Kodansha's Romanized Japanese-English Dictionary
 
@@ -118,8 +122,11 @@
 **Notes:**
 
 - Entries in English and kanji with furigana.
+- Layout uses Helvetica with Palatino, which is not very pleasant, not much contrast between entries.
+- Furigana is very small, which makes it a bit painful to read the Japanese translations, if one doesn't know the kanji. After deciphering the reading of a word, one has probably not much energy left to look at the kanji themselves.
+   - Conclusion: this dictionary is probably good for someone who knows all the kanji. Otherwise, it's probably better to have the kana and kanji next to each other in equal size.
 - For Japanese-English, see _Kodansha's Furigana Japanese-English Dictionary_
-- For a bidirectional work with both Japanese-English and English-Japanese, see _Kodansha's Furigana Japanese Dictionary_.
+- For the English-Japanese and Japanese-English dictionaries combined, see  _Kodansha's Furigana Japanese Dictionary_.
 
 ### Kodansha's Basic English-Japanese Dictionary
 
@@ -132,13 +139,50 @@
 | Pages               | 1520                |
 | Dimensions          | 13.34×19.05×5.72 cm |
 | Binding             | Paperback & Hardcover |
-| Link                | [Amazon](https://amzn.eu/d/0blvi6h3) |
+| Link                | [Amazon](https://a.co/d/bXDvNGk) |
 
 **Notes:**
 
-- Entries only in romaji and kanji with no pure kana or furigana (bad).
-- All example sentences in English, kanji, and romaji (romaji is unnecessary).
-- Definitions and example usages of words are very comprehensive.
+- Entries in romaji and kanji (romaji keywords with further examples in kana and kanji would be better).
+- Well-formatted entries.
+- Extensive explanations and examples, Japanese word options for a given English keyword are well-described and differentiated from each other.
+- Pitch accent markers in romaji Japanese words.
+
+### The Modern English-Nihongo Dictionary (Kodansha)
+
+| Property            | Value               |
+|---------------------|---------------------|
+| Author              | Fumio Tamamura      |
+| Edition             | 1                   |
+| Year of publication | 1997                |
+| Publisher           | Kodansha            |
+| Pages               | 1200                |
+| Dimensions          | 13.97×19.05×3.81 cm |
+| Binding             | Paperback & Hardcover |
+| Link                | [Amazon](https://a.co/d/dRfWoiz) |
+
+**Notes:**
+
+- Entries in romaji and kanji.
+- Includes boxes with explanations and pictures.
+
+### Kodansha's Communicative English-Japanese Dictionary
+
+| Property            | Value               |
+|---------------------|---------------------|
+| Author              | Peter Sharpe        |
+| Edition             | 1                   |
+| Year of publication | 2006                |
+| Publisher           | Kodansha            |
+| Pages               | 1178                |
+| Dimensions          | 13.97×19.05×5.08 cm |
+| Binding             | Hardcover           |
+| Link                | [Amazon](https://a.co/d/7BzAg0N) |
+
+**Notes:**
+
+- Entries in kanji with furigana (no romaji or pure kana).
+- Focus on example sentences and usage of words and word combinations.
 
 ## Bidirectional
 
@@ -272,7 +316,8 @@
 **Notes:**
 
 - Japanese-English entries in romaji and kanji (no kana/furigana) and alphabetical order.
-- Limited translations and examples.
+- Concise entries, some entries maybe too short, limited translations and examples.
+- Small format (inbetween the mini dictionaries and the normal-size dictionaries).
 
 ### Oxford Japanese Mini Dictionary
 
