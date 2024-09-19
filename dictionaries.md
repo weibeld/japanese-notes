@@ -316,7 +316,7 @@
 **Notes:**
 
 - Japanese-English entries in romaji and kanji (no kana/furigana) and alphabetical order.
-- Concise entries, some entries maybe too short, limited translations and examples.
+- Quite short entries (maybe too short), limited translations and examples.
 - Small format (inbetween the mini dictionaries and the normal-size dictionaries).
 
 ### Oxford Japanese Mini Dictionary
