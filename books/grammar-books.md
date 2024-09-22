@@ -1,0 +1,276 @@
+# Japanese Grammar Books
+
+<!-- vim-markdown-toc GFM -->
+
+- [Dictionary of Japanese Grammar Series](#dictionary-of-japanese-grammar-series)
+  - [A Dictionary of Basic Japanese Grammar](#a-dictionary-of-basic-japanese-grammar)
+  - [A Dictionary of Intermediate Japanese Grammar](#a-dictionary-of-intermediate-japanese-grammar)
+  - [A Dictionary of Advanced Japanese Grammar](#a-dictionary-of-advanced-japanese-grammar)
+- [Naoko Chino](#naoko-chino)
+  - [All About Particles](#all-about-particles)
+  - [How to Tell the Difference between Japanese Particles](#how-to-tell-the-difference-between-japanese-particles)
+  - [Japanese Verbs at a Glance](#japanese-verbs-at-a-glance)
+  - [A Dictionary of Basic Japanese Sentence Patterns](#a-dictionary-of-basic-japanese-sentence-patterns)
+- [Taeko Kamiya](#taeko-kamiya)
+  - [Japanese Sentence Patterns for Effective Communication](#japanese-sentence-patterns-for-effective-communication)
+  - [The Handbook of Japanese Verbs](#the-handbook-of-japanese-verbs)
+  - [The Handbook of Japanese Adjectives and Adverbs](#the-handbook-of-japanese-adjectives-and-adverbs)
+- [Kakuko Shoji](#kakuko-shoji)
+  - [Basic Connections](#basic-connections)
+  - [Japanese Core Words and Phrases](#japanese-core-words-and-phrases)
+  - [Common Japanese Collocations](#common-japanese-collocations)
+- [Miscellaneous](#miscellaneous)
+  - [The Complete Japanese Verb Guide](#the-complete-japanese-verb-guide)
+  - [A Dictionary of Japanese Particles](#a-dictionary-of-japanese-particles)
+  - [Making Sense of Japanese](#making-sense-of-japanese)
+  - [How to Sound Intelligent in Japanese](#how-to-sound-intelligent-in-japanese)
+
+<!-- vim-markdown-toc -->
+
+## Dictionary of Japanese Grammar Series
+
+### A Dictionary of Basic Japanese Grammar
+
+| Property                  | Value                                                                      |
+|---------------------------|----------------------------------------------------------------------------|
+| Author(s)                 | Seiichi Makino, Michio Tsutsui                                             |
+| Edition                   | 1                                                                          |
+| Year of first publication | 1989                                                                       |
+| Publisher                 | The Japan Times                                                            |
+| Pages                     | 636                                                                        |
+| Binding                   | Paperback                                                                  |
+| Links                     | [Amazon](https://a.co/d/iLAyPZ6), [Amazon JP](https://amzn.asia/d/blk6rDc) |
+
+### A Dictionary of Intermediate Japanese Grammar
+
+| Property                  | Value                                                                      |
+|---------------------------|----------------------------------------------------------------------------|
+| Author(s)                 | Seiichi Makino, Michio Tsutsui                                             |
+| Edition                   | 1                                                                          |
+| Year of first publication | 1995                                                                       |
+| Publisher                 | The Japan Times                                                            |
+| Pages                     | 760                                                                        |
+| Binding                   | Paperback                                                                  |
+| Links                     | [Amazon](https://a.co/d/9sQfHBe), [Amazon JP](https://amzn.asia/d/gySVEJc) |
+
+### A Dictionary of Advanced Japanese Grammar
+
+| Property                  | Value                                                                      |
+|---------------------------|----------------------------------------------------------------------------|
+| Author(s)                 | Seiichi Makino, Michio Tsutsui                                             |
+| Edition                   | 1                                                                          |
+| Year of first publication | 2008                                                                       |
+| Publisher                 | The Japan Times                                                            |
+| Pages                     | 796                                                                        |
+| Binding                   | Paperback                                                                  |
+| Links                     | [Amazon](https://a.co/d/2H3Cx6S), [Amazon JP](https://amzn.asia/d/9PbdAT7) |
+
+## Naoko Chino
+
+### All About Particles
+
+| Property                  | Value                                                                      |
+|---------------------------|----------------------------------------------------------------------------|
+| Author(s)                 | Naoko Chino                                                                |
+| Edition                   | 1                                                                          |
+| Year of first publication | 1991                                                                       |
+| Publisher                 | Kodansha                                                                   |
+| Pages                     | 160                                                                        |
+| Binding                   | Paperback                                                                  |
+| Links                     | [Amazon](https://a.co/d/cpZwc0S), [Amazon JP](https://amzn.asia/d/ekYl1O5) |
+
+- Explains 70 particles in detail.
+- TODO: check
+
+### How to Tell the Difference between Japanese Particles
+
+| Property                  | Value                                                                      |
+|---------------------------|----------------------------------------------------------------------------|
+| Author(s)                 | Naoko Chino                                                                |
+| Edition                   | 1                                                                          |
+| Year of first publication | 2005                                                                       |
+| Publisher                 | Kodansha                                                                   |
+| Pages                     | 200                                                                        |
+| Binding                   | Paperback                                                                  |
+| Links                     | [Amazon](https://a.co/d/4UzmoJ0), [Amazon JP](https://amzn.asia/d/7FYx1l1) |
+
+- Similar to a workbook with exercises.
+- TODO: check
+
+### Japanese Verbs at a Glance
+
+| Property                  | Value                                                                      |
+|---------------------------|----------------------------------------------------------------------------|
+| Author(s)                 | Naoko Chino                                                                |
+| Edition                   | 1                                                                          |
+| Year of first publication | 2001                                                                       |
+| Publisher                 | Kodansha                                                                   |
+| Pages                     | 180                                                                        |
+| Binding                   | Paperback                                                                  |
+| Links                     | [Amazon](https://a.co/d/9aLNEZQ), [Amazon JP](https://amzn.asia/d/1CkV952) |
+
+- TODO: check
+
+### A Dictionary of Basic Japanese Sentence Patterns
+
+| Property                  | Value                                                                      |
+|---------------------------|----------------------------------------------------------------------------|
+| Author(s)                 | Naoko Chino                                                                |
+| Edition                   | 1                                                                          |
+| Year of first publication | 2000                                                                       |
+| Publisher                 | Kodansha                                                                   |
+| Pages                     | 324                                                                        |
+| Binding                   | Paperback                                                                  |
+| Links                     | [Amazon](https://a.co/d/a1lqR0D), [Amazon JP](https://amzn.asia/d/7R2FgGS) |
+
+- TODO: check
+
+## Taeko Kamiya
+
+### Japanese Sentence Patterns for Effective Communication
+
+| Property                  | Value                                                                      |
+|---------------------------|----------------------------------------------------------------------------|
+| Author(s)                 | Taeko Kamiya                                                               |
+| Edition                   | 1                                                                          |
+| Year of first publication | 2005                                                                       |
+| Publisher                 | Kodansha                                                                   |
+| Pages                     | 366                                                                        |
+| Binding                   | Paperback                                                                  |
+| Links                     | [Amazon](https://a.co/d/7qvLk0a), [Amazon JP](https://amzn.asia/d/ikxWXT6) |
+
+- 142 sentence patterns organised by categories (making comparisons, stating purpose, etc.)
+
+### The Handbook of Japanese Verbs
+
+| Property                  | Value                                                                      |
+|---------------------------|----------------------------------------------------------------------------|
+| Author(s)                 | Taeko Kamiya                                                               |
+| Edition                   | 1                                                                          |
+| Year of first publication | 2012                                                                       |
+| Publisher                 | Kodansha                                                                   |
+| Pages                     | 256                                                                        |
+| Binding                   | Paperback                                                                  |
+| Links                     | [Amazon](https://a.co/d/2RNMO9q), [Amazon JP](https://amzn.asia/d/iqz9PG5) |
+
+- TODO: check
+
+### The Handbook of Japanese Adjectives and Adverbs
+
+| Property                  | Value                                                                      |
+|---------------------------|----------------------------------------------------------------------------|
+| Author(s)                 | Taeko Kamiya                                                               |
+| Edition                   | 1                                                                          |
+| Year of first publication | 2012                                                                       |
+| Publisher                 | Kodansha                                                                   |
+| Pages                     | 336                                                                        |
+| Binding                   | Paperback                                                                  |
+| Links                     | [Amazon](https://a.co/d/bnL7atm), [Amazon JP](https://amzn.asia/d/iHJFwxU) |
+
+- TODO: check
+
+## Kakuko Shoji
+
+### Basic Connections
+
+| Property                  | Value                                                                      |
+|---------------------------|----------------------------------------------------------------------------|
+| Author(s)                 | Kakuko Shoji                                                               |
+| Edition                   | 1                                                                          |
+| Year of first publication | 1997                                                                       |
+| Publisher                 | Kodansha                                                                   |
+| Pages                     | 160                                                                        |
+| Binding                   | Paperback                                                                  |
+| Links                     | [Amazon](https://a.co/d/fEBgVpG), [Amazon JP](https://amzn.asia/d/2RuFFVV) |
+
+- Advanced grammar topics in detail.
+- Contains content that is not easily found elsewhere.
+
+### Japanese Core Words and Phrases
+
+| Property                  | Value                                                                      |
+|---------------------------|----------------------------------------------------------------------------|
+| Author(s)                 | Kakuko Shoji                                                               |
+| Edition                   | 1                                                                          |
+| Year of first publication | 2001                                                                       |
+| Publisher                 | Kodansha                                                                   |
+| Pages                     | 131                                                                        |
+| Binding                   | Paperback                                                                  |
+| Links                     | [Amazon](https://a.co/d/0EgyADs), [Amazon JP](https://amzn.asia/d/6omt9sZ) |
+
+- TODO: check
+
+### Common Japanese Collocations
+
+| Property                  | Value                                                                      |
+|---------------------------|----------------------------------------------------------------------------|
+| Author(s)                 | Kakuko Shoji                                                               |
+| Edition                   | 1                                                                          |
+| Year of first publication | 2010                                                                       |
+| Publisher                 | Kodansha                                                                   |
+| Pages                     | 256                                                                        |
+| Binding                   | Paperback                                                                  |
+| Links                     | [Amazon](https://a.co/d/bLzP5Py), [Amazon JP](https://amzn.asia/d/7G2L3Vb) |
+
+- Lists kanji compound words organised by topic and gives example sentences for these words.
+- Doesn't seem very useful at first glance.
+
+## Miscellaneous
+
+### The Complete Japanese Verb Guide
+
+| Property                  | Value                                                                      |
+|---------------------------|----------------------------------------------------------------------------|
+| Author(s)                 | Hiroo Japanese Center                                                      |
+| Edition                   | 1                                                                          |
+| Year of first publication | 1989                                                                       |
+| Publisher                 | Tuttle                                                                     |
+| Pages                     | 352                                                                        |
+| Binding                   | Paperback                                                                  |
+| Links                     | [Amazon](https://a.co/d/8W6SkIa), [Amazon JP](https://amzn.asia/d/14o3ceH) |
+
+- 600 verbs, each on one page, with translation, transitivity, conjugations, and example sentences.
+
+### A Dictionary of Japanese Particles
+
+| Property                  | Value                                                                      |
+|---------------------------|----------------------------------------------------------------------------|
+| Author(s)                 | Sue A. Kawashima                                                           |
+| Edition                   | 1                                                                          |
+| Year of first publication | 1999                                                                       |
+| Publisher                 | Kodansha                                                                   |
+| Pages                     | 368                                                                        |
+| Binding                   | Paperback                                                                  |
+| Links                     | [Amazon](https://a.co/d/fc5MPst), [Amazon JP](https://amzn.asia/d/f5MRmpM) |
+
+- Explains over 100 particles in detail.
+
+### Making Sense of Japanese
+
+| Property                  | Value                                                                      |
+|---------------------------|----------------------------------------------------------------------------|
+| Author(s)                 | Jay Rubin                                                                  |
+| Edition                   | 1                                                                          |
+| Year of first publication | 1998                                                                       |
+| Publisher                 | Kodansha                                                                   |
+| Pages                     | 144                                                                        |
+| Binding                   | Paperback                                                                  |
+| Links                     | [Amazon](https://a.co/d/4xooMd6), [Amazon JP](https://amzn.asia/d/0hWhrUO) |
+
+- Advanced Japanese grammar details explained in detail in English.
+- TODO: check
+
+### How to Sound Intelligent in Japanese
+
+| Property                  | Value                                                                      |
+|---------------------------|----------------------------------------------------------------------------|
+| Author(s)                 | Charles de Wolf                                                            |
+| Edition                   | 1                                                                          |
+| Year of first publication | 2012                                                                       |
+| Publisher                 | Kodansha                                                                   |
+| Pages                     | 160                                                                        |
+| Binding                   | Paperback                                                                  |
+| Links                     | [Amazon](https://a.co/d/hdSN6l5), [Amazon JP](https://amzn.asia/d/6Fh6aTu) |
+
+- Advanced vocabulary organised by topic, such as philosophy, politics, humanities, etc.
+- TODO: check

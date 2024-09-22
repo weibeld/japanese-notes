@@ -1,13 +1,13 @@
-# Dictionaries
+# Japanese Dictionaries
 
 <!-- vim-markdown-toc GFM -->
 
-- [Unidirectional: From Japanese](#unidirectional-from-japanese)
+- [Japanese to English](#japanese-to-english)
   - [Kodansha's Furigana Japanese-English Dictionary](#kodanshas-furigana-japanese-english-dictionary)
   - [Kodansha's Romanized Japanese-English Dictionary](#kodanshas-romanized-japanese-english-dictionary)
   - [Oxford Basic Japanese-English Dictionary](#oxford-basic-japanese-english-dictionary)
   - [Takahashi's Pocket Romanized Japanese-English Dictionary](#takahashis-pocket-romanized-japanese-english-dictionary)
-- [Unidirectional: To Japanese](#unidirectional-to-japanese)
+- [English to Japanese](#english-to-japanese)
   - [Kodansha's Furigana English-Japanese Dictionary](#kodanshas-furigana-english-japanese-dictionary)
   - [Kodansha's Basic English-Japanese Dictionary](#kodanshas-basic-english-japanese-dictionary)
   - [The Modern English-Nihongo Dictionary (Kodansha)](#the-modern-english-nihongo-dictionary-kodansha)
@@ -27,7 +27,7 @@
 
 <!-- vim-markdown-toc -->
 
-## Unidirectional: From Japanese
+## Japanese to English
 
 ### Kodansha's Furigana Japanese-English Dictionary
 
@@ -104,7 +104,7 @@
 - Compact and extensive (15,500 words).
 - The 1994 version is a reduced version of the 1984 version.
 
-## Unidirectional: To Japanese
+## English to Japanese
 
 ### Kodansha's Furigana English-Japanese Dictionary
 

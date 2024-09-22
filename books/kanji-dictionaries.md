@@ -1,4 +1,38 @@
-# Kanji Dictionaries
+# Japanese Kanji Dictionaries
+
+<!-- vim-markdown-toc GFM -->
+
+- [The Kanji Dictionary: Find Any Compound Using Any of Its Component Characters](#the-kanji-dictionary-find-any-compound-using-any-of-its-component-characters)
+  - [Older and translated versions](#older-and-translated-versions)
+    - [Japanese Character Dictionary: With Compound Look-up via Any Kanji](#japanese-character-dictionary-with-compound-look-up-via-any-kanji)
+      - [Notes](#notes)
+    - [Langenscheidt Grosswörterbuch Japanisch-Deutsch: Zeichenwörterbuch](#langenscheidt-grosswörterbuch-japanisch-deutsch-zeichenwörterbuch)
+      - [Notes](#notes-1)
+  - [The Learner's Japanese Kanji Dictionary: Find Any Compound Using Any of Its Component Characters](#the-learners-japanese-kanji-dictionary-find-any-compound-using-any-of-its-component-characters)
+    - [Notes](#notes-2)
+    - [Japanisch-deutsches Zeichenwörterbuch](#japanisch-deutsches-zeichenwörterbuch)
+      - [Notes](#notes-3)
+- [The Kodansha Kanji Dictionary](#the-kodansha-kanji-dictionary)
+  - [The Kodansha Kanji Learner's Dictionary](#the-kodansha-kanji-learners-dictionary)
+  - [New Japanese-English Character Dictionary](#new-japanese-english-character-dictionary)
+- [Kodansha's Essential Kanji Dictionary](#kodanshas-essential-kanji-dictionary)
+  - [Older versions](#older-versions)
+    - [Kodansha's Compact Kanji Guide](#kodanshas-compact-kanji-guide)
+- [The New Nelson Japanese-English Character Dictionary](#the-new-nelson-japanese-english-character-dictionary)
+    - [Ordering](#ordering)
+  - [The Modern Reader's Japanese-English Character Dictionary](#the-modern-readers-japanese-english-character-dictionary)
+    - [Notes](#notes-4)
+    - [Ordering:](#ordering-1)
+    - [Lookup](#lookup)
+    - [Readability](#readability)
+    - [Info](#info)
+    - [Scripts](#scripts)
+    - [Indexes](#indexes)
+  - [The Compact Nelson Japanese-English Character Dictionary](#the-compact-nelson-japanese-english-character-dictionary)
+- [Direct Access Instant Kanji Dictionary (漢字早引き字典)](#direct-access-instant-kanji-dictionary-漢字早引き字典)
+- [Japanese-English Code Dictionary](#japanese-english-code-dictionary)
+
+<!-- vim-markdown-toc -->
 
 ## The Kanji Dictionary: Find Any Compound Using Any of Its Component Characters
 
