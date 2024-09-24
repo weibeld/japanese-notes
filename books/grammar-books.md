@@ -79,8 +79,9 @@
 | Binding                   | Paperback                                                                  |
 | Links                     | [Amazon](https://a.co/d/cpZwc0S), [Amazon JP](https://amzn.asia/d/ekYl1O5) |
 
-- Explains 70 particles in detail.
-- TODO: check
+- Explains 69 particles
+- Example sentences quite complicated
+- More limited than [A Dictionary of Japanese Particles](#a-dictionary-of-japanese-particles)
 
 ### How to Tell the Difference between Japanese Particles
 
@@ -123,7 +124,11 @@
 | Binding                   | Paperback                                                                  |
 | Links                     | [Amazon](https://a.co/d/a1lqR0D), [Amazon JP](https://amzn.asia/d/7R2FgGS) |
 
-- TODO: check
+- Contains about 120 sentence patterns
+- Very similar to [Japanese Sentence Patterns for Effective Communication](#japanese-sentence-patterns-for-effective-communication):
+  - Similar set and level of patterns
+  - Patterns are harder to look up and parse
+  - More technical
 
 ## Taeko Kamiya
 
@@ -140,6 +145,7 @@
 | Links                     | [Amazon](https://a.co/d/7qvLk0a), [Amazon JP](https://amzn.asia/d/ikxWXT6) |
 
 - 142 sentence patterns organised by categories (making comparisons, stating purpose, etc.)
+- Patterns are rather basic (e.g. doesn't contain a pattern like "I wish I had ...")
 
 ### The Handbook of Japanese Verbs
 
@@ -153,7 +159,13 @@
 | Binding                   | Paperback                                                                  |
 | Links                     | [Amazon](https://a.co/d/2RNMO9q), [Amazon JP](https://amzn.asia/d/iqz9PG5) |
 
-- TODO: check
+- Explains all verb forms and how they are formed and conjugated
+- For each verb form, lists sentence patterns
+- Contains exercises
+- Explanations are quite short (more space is given to example sentences and exercises)
+- Appendix with overview of sentence patterns and long verb list (including suru verbs)
+- The sentence patterns are probably the most useful feature of the book
+  - Similar to [Japanese Sentence Patterns for Effective Communication](#japanese-sentence-patterns-for-effective-communication) and [A Dictionary of Basic Japanese Sentence Patterns](#a-dictionary-of-basic-japanese-sentence-patterns), however, it contains more advanced patterns than these two books, which are formed through certain advanced verb forms.
 
 ### The Handbook of Japanese Adjectives and Adverbs
 
@@ -167,7 +179,8 @@
 | Binding                   | Paperback                                                                  |
 | Links                     | [Amazon](https://a.co/d/bnL7atm), [Amazon JP](https://amzn.asia/d/iHJFwxU) |
 
-- TODO: check
+- Similar structure as [The Handbook of Japanese Verbs](#the-handbook-of-japanese-verbs), but with adjectives and adverbs
+- Contains longer and useful explanations
 
 ## Kakuko Shoji
 
@@ -212,8 +225,9 @@
 | Binding                   | Paperback                                                                  |
 | Links                     | [Amazon](https://a.co/d/bLzP5Py), [Amazon JP](https://amzn.asia/d/7G2L3Vb) |
 
-- Lists kanji compound words organised by topic and gives example sentences for these words.
-- Doesn't seem very useful at first glance.
+- Lists kanji nouns and examples of how they are combined with verbs and adjectives.
+- Nouns are organised by topic categories.
+- No index, which makes looking up words difficult.
 
 ## Miscellaneous
 

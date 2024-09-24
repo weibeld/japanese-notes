@@ -2,13 +2,14 @@
 
 <!-- vim-markdown-toc GFM -->
 
-- [Remembering the Kanji, Volumes 1, 2 and 3](#remembering-the-kanji-volumes-1-2-and-3)
+- [Remembering the Kanji (3 Volumes)](#remembering-the-kanji-3-volumes)
 - [The Complete Guide to Japanese Kanji](#the-complete-guide-to-japanese-kanji)
   - [A Guide to Remembering Japanese Characters](#a-guide-to-remembering-japanese-characters)
 - [Kanji und Kana: Die Welt der japanischen Schrift in einem Band](#kanji-und-kana-die-welt-der-japanischen-schrift-in-einem-band)
   - [Japanese Kanji & Kana: A Complete Guide to the Japanese Writing System](#japanese-kanji--kana-a-complete-guide-to-the-japanese-writing-system)
   - [Kanji & Kana: Lehrbuch und Lexikon der japanischen Schrift](#kanji--kana-lehrbuch-und-lexikon-der-japanischen-schrift)
   - [Kanji & Kana: A Handbook of the Japanese Writing System](#kanji--kana-a-handbook-of-the-japanese-writing-system)
+- [Kanji in Context](#kanji-in-context)
 - [The Kodansha Kanji Learner's Course: A Step-by-Step Guide to Mastering 2300 Characters](#the-kodansha-kanji-learners-course-a-step-by-step-guide-to-mastering-2300-characters)
 - [The Kodansha Kanji Synonyms Guide](#the-kodansha-kanji-synonyms-guide)
 - [The Kodansha Kanji Usage Guide: An A to Z of Kun Homophones](#the-kodansha-kanji-usage-guide-an-a-to-z-of-kun-homophones)
@@ -17,7 +18,7 @@
 
 <!-- vim-markdown-toc -->
 
-## Remembering the Kanji, Volumes 1, 2 and 3
+## Remembering the Kanji (3 Volumes)
 
 | Property            | Value                                                                                                                           |
 |---------------------|---------------------------------------------------------------------------------------------------------------------------------|
@@ -146,6 +147,30 @@
   2. Stroke count
   3. Readings (on-yomi and kun-yomi)
 
+## Kanji in Context
+
+| Property            | Value                            |
+|---------------------|----------------------------------|
+| Author              | Inter-University Center for Japanese Language Studies |
+| Edition             | 1                                |
+| Year of publication | 1994                             |
+| Publisher           | Japan Times                      |
+| Pages               | 432 (Reference Book), 252 (Workbook 1), 180 (Workbook 2) |
+| Kanji coverage      | ~2000                            |
+| Link                | [Amazon (Reference Book)](https://a.co/d/1OoVk8D), [Amazon (Workbook 1)](https://a.co/d/9thyjzA), [Amazon (Workbook 2)](https://a.co/d/9thyjzA) |
+
+- Targeted at intermediated and advanced students
+- Assumes that 200-300 kanji are already known
+- Kanjis are organised in 6 levels from most to least frequently used
+- Reference book is akin to a kanji dictionary, listing each kanji and example words in which it is used
+- Workbooks consists of lessons that each introduce 10-20 kanjis
+  - Lessons mainly show example words and sentences in which a kanji is used
+  - These example words and sentences may include kanjis that have not been introduced yet
+  - No English translations for the example words and sentences are provided
+- Does not provide mnemonics or a keyword for each kanji, does not break down a kanji into primitives and components (as, for example, [Remembering the Kanji (3 Volumes)](#remembering-the-kanji-3-volumes))
+- Focuses on the real-world usage of a kanji in words and sentences
+- Might be useful after kanjis have been already learned as a way to reinforce the kanji knowledge (form, sound, and meaning) by seeing how the kanjis are used in the real world.
+
 ## The Kodansha Kanji Learner's Course: A Step-by-Step Guide to Mastering 2300 Characters
 
 | Property            | Value                            |
@@ -159,7 +184,9 @@
 | Kanji coverage      | ~2300                            |
 | Link                | [Amazon](https://a.co/d/5iVJD7i) |
 
-- TODO: check
+- End-to-end course for learning form, sound, and meaning of 2300 kanjis
+- Provides mnemonic for each kanji, as well as  one keyword for each meaning, on and kun readings, and example words in which the kanji is used
+- Example vocabulary contains only kanjis that have been learned so far
 
 ## The Kodansha Kanji Synonyms Guide
 
