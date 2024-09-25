@@ -19,8 +19,12 @@
   - [Basic Connections](#basic-connections)
   - [Japanese Core Words and Phrases](#japanese-core-words-and-phrases)
   - [Common Japanese Collocations](#common-japanese-collocations)
+- [Tuttle](#tuttle)
+  - [600 Basic Japanese Verbs](#600-basic-japanese-verbs)
+    - [The Complete Japanese Verb Guide](#the-complete-japanese-verb-guide)
+  - [Essential Japanese Grammar](#essential-japanese-grammar)
+  - [Essential Japanese Vocabulary](#essential-japanese-vocabulary)
 - [Miscellaneous](#miscellaneous)
-  - [The Complete Japanese Verb Guide](#the-complete-japanese-verb-guide)
   - [A Dictionary of Japanese Particles](#a-dictionary-of-japanese-particles)
   - [Making Sense of Japanese](#making-sense-of-japanese)
   - [How to Sound Intelligent in Japanese](#how-to-sound-intelligent-in-japanese)
@@ -229,9 +233,23 @@
 - Nouns are organised by topic categories.
 - No index, which makes looking up words difficult.
 
-## Miscellaneous
+## Tuttle
 
-### The Complete Japanese Verb Guide
+### 600 Basic Japanese Verbs
+
+| Property                  | Value                                                                      |
+|---------------------------|----------------------------------------------------------------------------|
+| Author(s)                 | Hiroo Japanese Center                                                      |
+| Edition                   | 1                                                                          |
+| Year of first publication | 2013                                                                       |
+| Publisher                 | Tuttle                                                                     |
+| Pages                     | 352                                                                        |
+| Binding                   | Paperback                                                                  |
+| Links                     | [Amazon](https://a.co/d/2XsUCNV), [Amazon JP](https://amzn.asia/d/5tCQsgr) |
+
+- Lists 600 verbs, each on one page, with translation, transitivity, conjugations, and example sentences.
+
+#### The Complete Japanese Verb Guide
 
 | Property                  | Value                                                                      |
 |---------------------------|----------------------------------------------------------------------------|
@@ -243,7 +261,38 @@
 | Binding                   | Paperback                                                                  |
 | Links                     | [Amazon](https://a.co/d/8W6SkIa), [Amazon JP](https://amzn.asia/d/14o3ceH) |
 
-- 600 verbs, each on one page, with translation, transitivity, conjugations, and example sentences.
+- Predecessor version of [600 Basic Japanese Verbs](#600-basic-japanese-verbs)
+
+### Essential Japanese Grammar
+
+| Property                  | Value                                                                      |
+|---------------------------|----------------------------------------------------------------------------|
+| Author(s)                 | Masahiro Tanimori, Eriko Sato                                              |
+| Edition                   | 1                                                                          |
+| Year of first publication | 2012                                                                       |
+| Publisher                 | Tuttle                                                                     |
+| Pages                     | 416                                                                        |
+| Binding                   | Paperback                                                                  |
+| Links                     | [Amazon](https://a.co/d/j2LIose), [Amazon JP](https://amzn.asia/d/2d3zPyj) |
+
+- Covers complete Japanese grammar with thorough explanations.
+
+### Essential Japanese Vocabulary
+
+| Property                  | Value                                                                      |
+|---------------------------|----------------------------------------------------------------------------|
+| Author(s)                 | Akira Miura                                                                |
+| Edition                   | 1                                                                          |
+| Year of first publication | 2011                                                                       |
+| Publisher                 | Tuttle                                                                     |
+| Pages                     | 320                                                                        |
+| Binding                   | Paperback                                                                  |
+| Links                     | [Amazon](https://a.co/d/6hWQ5PK), [Amazon JP](https://amzn.asia/d/7LFi69J) |
+
+- Lists 500 words alphabetically with a lot of explanations for each word (not just example sentences)
+- Lists especially words that are often misused by language learners
+
+## Miscellaneous
 
 ### A Dictionary of Japanese Particles
 
