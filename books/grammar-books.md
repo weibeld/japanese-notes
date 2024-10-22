@@ -402,11 +402,15 @@
 | Binding                   | Paperback                                                                  |
 | Links                     | [Amazon](https://a.co/d/4xooMd6), [Amazon JP](https://amzn.asia/d/0hWhrUO) |
 
-- Advanced Japanese grammar details explained in detail in English.
+- Essays on a selection of Japanese grammar items
+- Writing style is literary, rather than technical
+- Provides a completely new perspective on concepts, compared to other grammar books
 
-🔄 Check
+✅ Will probably buy
 
-- TODO: check
+- Complements other grammar books
+- Some grammar items are in a completely different way, and in much more detail, than anywhere else (e.g. が vs. は)
+- Not a look up book, but a book that is probably read only once, yet contains a lot of useful information
 
 ### How to Sound Intelligent in Japanese
 
