@@ -14,7 +14,7 @@
   - [Kodansha's Compact Kanji Guide](#kodanshas-compact-kanji-guide)
 - [The New Nelson Japanese-English Character Dictionary](#the-new-nelson-japanese-english-character-dictionary)
   - [The Modern Reader's Japanese-English Character Dictionary](#the-modern-readers-japanese-english-character-dictionary)
-  - [The Compact Nelson Japanese-English Character Dictionary](#the-compact-nelson-japanese-english-character-dictionary)
+- [The Compact Nelson Japanese-English Character Dictionary](#the-compact-nelson-japanese-english-character-dictionary)
 - [Direct Access Instant Kanji Dictionary (漢字早引き字典)](#direct-access-instant-kanji-dictionary-漢字早引き字典)
 - [Japanese-English Code Dictionary](#japanese-english-code-dictionary)
 
@@ -296,7 +296,7 @@
   - Kanji and romaji (no kana)
   - On-yomi in upper-case romaji and kun-yomi in lower-case italics
 
-### The Compact Nelson Japanese-English Character Dictionary
+## The Compact Nelson Japanese-English Character Dictionary
 
 | Property            | Value               |
 |---------------------|---------------------|
@@ -306,7 +306,7 @@
 | Publisher           | Tuttle              |
 | Pages               | 779                 |
 | Dimensions          | 12.7×18.42 cm       |
-| Kanji coverage    | ~3000               |
+| Kanji coverage      | ~3000               |
 | Link                | [Amazon](https://amzn.eu/d/cQ7Mi5A) |
 
 - Reduced version of [The New Nelson Japanese-English Character Dictionary](#the-new-nelson-japanese-english-character-dictionary)
