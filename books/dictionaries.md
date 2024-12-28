@@ -115,16 +115,17 @@
 | Year of publication | 2013                |
 | Publisher           | Kodansha            |
 | Pages               | 728                 |
+| Headwords           | ~14,000             |
 | Dimensions          | 12.95×18.29×2.54 cm |
 | Binding             | Paperback           |
-| Link                | [Amazon](https://a.co/d/hkZE4yv) |
+| Link                | [Amazon US](https://a.co/d/hkZE4yv), [Amazon DE](https://amzn.eu/d/hP6ggbs) |
 
 **Notes:**
 
 - Entries in English and kanji with furigana.
 - Layout uses Helvetica with Palatino, which is not very pleasant, not much contrast between entries.
 - Furigana is very small, which makes it a bit painful to read the Japanese translations, if one doesn't know the kanji. After deciphering the reading of a word, one has probably not much energy left to look at the kanji themselves.
-   - Conclusion: this dictionary is probably good for someone who knows all the kanji. Otherwise, it's probably better to have the kana and kanji next to each other in equal size.
+  - Conclusion: this dictionary is probably good for someone who knows all the kanji. Otherwise, it's probably better to have the kana and kanji next to each other in equal size.
 - For Japanese-English, see _Kodansha's Furigana Japanese-English Dictionary_
 - For the English-Japanese and Japanese-English dictionaries combined, see  _Kodansha's Furigana Japanese Dictionary_.
 
@@ -137,9 +138,10 @@
 | Year of publication | 2003                |
 | Publisher           | Kodansha            |
 | Pages               | 1520                |
+| Headwords           | ~4500               |
 | Dimensions          | 13.34×19.05×5.72 cm |
 | Binding             | Paperback & Hardcover |
-| Link                | [Amazon](https://a.co/d/bXDvNGk) |
+| Link                | [Amazon US](https://a.co/d/bXDvNGk), [Amazon DE](https://amzn.eu/d/556pREr) |
 
 **Notes:**
 
@@ -147,6 +149,9 @@
 - Well-formatted entries.
 - Extensive explanations and examples, Japanese word options for a given English keyword are well-described and differentiated from each other.
 - Pitch accent markers in romaji Japanese words.
+- Many example sentences
+- More limited set of vocabulary than [Kodansha's Furigana English-Japanese Dictionary](#kodanshas-furigana-english-japanese-dictionary), even though having more pages and being bigger and heavier
+  - This is because of the long entries with example sentences, etc.
 
 ### The Modern English-Nihongo Dictionary (Kodansha)
 
@@ -157,6 +162,7 @@
 | Year of publication | 1997                |
 | Publisher           | Kodansha            |
 | Pages               | 1200                |
+| Headwords           | ~6000               |
 | Dimensions          | 13.97×19.05×3.81 cm |
 | Binding             | Paperback & Hardcover |
 | Link                | [Amazon](https://a.co/d/dRfWoiz) |
