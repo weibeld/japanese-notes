@@ -1,0 +1,67 @@
+# Kanji Resources
+
+For a potential kanji application:
+
+- <https://taku910.github.io/mecab/>
+  - Generate readings
+- <https://kakijun.jp/>
+  - Stroke order
+- <https://www.edrdg.org/wiki/index.php/KANJIDIC_Project>
+  - Authoritative kanji reference for text processing
+- <https://kanjivg.tagaini.net/>
+  - Kanji vector graphics
+  - Includes all strokes individually, as well as radicals and components as stroke groups
+  - Idea: colour strokes in a gradient (e.g. from green to red) to represent the stroke order
+  - GitHub: <https://github.com/KanjiVG/kanjivg>
+- <https://github.com/cayennes/kanji-colorize>
+  - Python script for creating colorised stroke order diagrams from KanjiVG data
+  - Includes Anki add-on
+- <https://github.com/maurimo/kanimaji>
+  - Nice stroke order animations based on KanjiVG data in SVG and GIF
+- <https://github.com/jcsirot/kanji.gif>
+  - Ready-to-use kanji animation GIFs created with Kanimaji
+- <https://github.com/parsimonhi/animCJK>
+  - Kanji and kana stroke animation in SVG
+- <https://www.edrdg.org/krad/kradinf.html>
+  - Radical to kanji and kanji to radical mappings
+- <https://www.kanjidatabase.com/>
+  - Jōyō kanji database
+- <https://github.com/asdfjkl/kanjicanvas>
+  - Kanji recognition in JavaScript
+- <https://stastka.ch/app/dictionary/jpn-kanji/>
+  - Kanji-Hobbyprojekt:
+- <https://kanjiapi.dev/>
+  - Kanji JSON API
+  - GitHub: <https://github.com/onlyskin/kanjiapi.dev>
+- <https://kai.kanjiapi.dev/>
+  - Application for looking up, listing, and discovering kanji
+  - All kanjis and readings are clickable
+  - GitHub: <https://github.com/onlyskin/kai.kanjiapi.dev>
+- <https://sylhare.github.io/kanji/>
+  - Flashcards for the 214 kanji radicals
+- <https://www.onkun.org/>
+  - Kanji lookup dictionary
+  - Allows looking up multiple kanjis at once
+  - GitHub: <https://github.com/dpars34/onkun>
+- <https://github.com/mifunetoshiro/kanjium>
+  - The ultimate kanji resource
+- <https://www.ryouflashcards.com/>
+  - Kanji dictionary including kanji component information
+  - Also includes vocabulary and sentences
+  - Also includes learning facilities, including an SRS system
+- <https://kanjialive.com/>
+  - Study tool for reading and writing kanji
+  - Created at the University of Chicago
+- <https://thekanjimap.com/>
+  - Decomposition and synthesis of kanijs
+  - Shows what components a kanji is made up, and in what other kanjis this kanji figures as a component itself
+  - GitHub: <https://github.com/gabor-kovacs/the-kanji-map>
+- <https://github.com/kroki/GeekJDict>
+  - Command-line japanese dictionary
+- <https://dschuhmacher.github.io/kanjistat/>
+  - R package for processing and analysing kanjis
+  - Includes kanji distance functions (quantification of similarity between kanjis)
+- <https://www.kanjidist.org/>
+  - Showcase of a kanji distance function
+  - Quantifying the similarity between kanji (e.g. through shared components, etc.)
+  - Based on the kanjistat R package
