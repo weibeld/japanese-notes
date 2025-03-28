@@ -2,25 +2,31 @@
 
 <!-- vim-markdown-toc GFM -->
 
-- [The Kanji Dictionary: Find Any Compound Using Any of Its Component Characters](#the-kanji-dictionary-find-any-compound-using-any-of-its-component-characters)
-  - [Langenscheidt Grosswörterbuch Japanisch-Deutsch: Zeichenwörterbuch](#langenscheidt-grosswörterbuch-japanisch-deutsch-zeichenwörterbuch)
-  - [Japanese Character Dictionary: With Compound Look-up via Any Kanji](#japanese-character-dictionary-with-compound-look-up-via-any-kanji)
-- [The Learner's Japanese Kanji Dictionary: Find Any Compound Using Any of Its Component Characters](#the-learners-japanese-kanji-dictionary-find-any-compound-using-any-of-its-component-characters)
-  - [Japanisch-deutsches Zeichenwörterbuch](#japanisch-deutsches-zeichenwörterbuch)
-- [The Kodansha Kanji Dictionary](#the-kodansha-kanji-dictionary)
-  - [New Japanese-English Character Dictionary](#new-japanese-english-character-dictionary)
-- [The Kodansha Kanji Learner's Dictionary](#the-kodansha-kanji-learners-dictionary)
-- [Kodansha's Essential Kanji Dictionary](#kodanshas-essential-kanji-dictionary)
-  - [Kodansha's Compact Kanji Guide](#kodanshas-compact-kanji-guide)
-- [The New Nelson Japanese-English Character Dictionary](#the-new-nelson-japanese-english-character-dictionary)
-  - [The Modern Reader's Japanese-English Character Dictionary](#the-modern-readers-japanese-english-character-dictionary)
-- [The Compact Nelson Japanese-English Character Dictionary](#the-compact-nelson-japanese-english-character-dictionary)
-- [Direct Access Instant Kanji Dictionary (漢字早引き字典)](#direct-access-instant-kanji-dictionary-漢字早引き字典)
-- [Japanese-English Code Dictionary](#japanese-english-code-dictionary)
+- [Hadamitzky](#hadamitzky)
+  - [The Kanji Dictionary: Find Any Compound Using Any of Its Component Characters](#the-kanji-dictionary-find-any-compound-using-any-of-its-component-characters)
+    - [Langenscheidt Grosswörterbuch Japanisch-Deutsch: Zeichenwörterbuch](#langenscheidt-grosswörterbuch-japanisch-deutsch-zeichenwörterbuch)
+    - [Japanese Character Dictionary: With Compound Look-up via Any Kanji](#japanese-character-dictionary-with-compound-look-up-via-any-kanji)
+  - [The Learner's Japanese Kanji Dictionary: Find Any Compound Using Any of Its Component Characters](#the-learners-japanese-kanji-dictionary-find-any-compound-using-any-of-its-component-characters)
+    - [Japanisch-deutsches Zeichenwörterbuch](#japanisch-deutsches-zeichenwörterbuch)
+- [Kodansha](#kodansha)
+  - [The Kodansha Kanji Dictionary](#the-kodansha-kanji-dictionary)
+    - [New Japanese-English Character Dictionary](#new-japanese-english-character-dictionary)
+  - [The Kodansha Kanji Learner's Dictionary](#the-kodansha-kanji-learners-dictionary)
+  - [Kodansha's Essential Kanji Dictionary](#kodanshas-essential-kanji-dictionary)
+    - [Kodansha's Compact Kanji Guide](#kodanshas-compact-kanji-guide)
+- [Nelson](#nelson)
+  - [The New Nelson Japanese-English Character Dictionary](#the-new-nelson-japanese-english-character-dictionary)
+    - [The Modern Reader's Japanese-English Character Dictionary](#the-modern-readers-japanese-english-character-dictionary)
+  - [The Compact Nelson Japanese-English Character Dictionary](#the-compact-nelson-japanese-english-character-dictionary)
+- [Other](#other)
+  - [Direct Access Instant Kanji Dictionary (漢字早引き字典)](#direct-access-instant-kanji-dictionary-漢字早引き字典)
+  - [Japanese-English Code Dictionary](#japanese-english-code-dictionary)
 
 <!-- vim-markdown-toc -->
 
-## The Kanji Dictionary: Find Any Compound Using Any of Its Component Characters
+## Hadamitzky
+
+### The Kanji Dictionary: Find Any Compound Using Any of Its Component Characters
 
 | Property            | Value               |
 |---------------------|---------------------|
@@ -52,7 +58,7 @@ Conclusion:
 - Good for seeing, discovering, and comparing compounds
 - Not much additional information per kanji → resort to [The Kodansha Kanji Dictionary](#the-kodansha-kanji-dictionary)
 
-### Langenscheidt Grosswörterbuch Japanisch-Deutsch: Zeichenwörterbuch
+#### Langenscheidt Grosswörterbuch Japanisch-Deutsch: Zeichenwörterbuch
 
 | Property            | Value               |
 |---------------------|---------------------|
@@ -68,7 +74,7 @@ Conclusion:
 - German version of [The Kanji Dictionary: Find Any Compound Using Any of Its Component Characters](#the-kanji-dictionary-find-any-compound-using-any-of-its-component-characters) 
 - Out of print: can only be obtained used from Amazon for a very high price (100 Euros).
 
-### Japanese Character Dictionary: With Compound Look-up via Any Kanji
+#### Japanese Character Dictionary: With Compound Look-up via Any Kanji
 
 | Property            | Value               |
 |---------------------|---------------------|
@@ -86,7 +92,7 @@ Conclusion:
   - Subset of the 214 traditionaly Kangxi radicals
 - First kanji dictionary in which compounds are listed under all of their constituent kanji (https://www.hadamitzky.de/deutsch/werke_buecher.htm#JCD).
 
-## The Learner's Japanese Kanji Dictionary: Find Any Compound Using Any of Its Component Characters
+### The Learner's Japanese Kanji Dictionary: Find Any Compound Using Any of Its Component Characters
 
 | Property            | Value               |
 |---------------------|---------------------|
@@ -104,7 +110,7 @@ Conclusion:
 )
 - For German version, see [Japanisch-deutsches Zeichenwörterbuch](#japanisch-deutsches-zeichenwörterbuch)
 
-### Japanisch-deutsches Zeichenwörterbuch
+#### Japanisch-deutsches Zeichenwörterbuch
 
 | Property            | Value               |
 |---------------------|---------------------|
@@ -125,7 +131,9 @@ Conclusion:
   - Inludes stroke order for each kanji
   - Contains handwritten and older versions of kanji
 
-## The Kodansha Kanji Dictionary
+## Kodansha
+
+### The Kodansha Kanji Dictionary
 
 | Property            | Value               |
 |---------------------|---------------------|
@@ -155,7 +163,7 @@ Conclusion:
 - Less compounds than [The Kanji Dictionary](#the-kanji-dictionary-find-any-compound-using-any-of-its-component-characters), however, more focus on the nuances of the meanings of the kanji
 - For an overview of meanings this dictionary is better than [The Kanji Dictionary](#the-kanji-dictionary-find-any-compound-using-any-of-its-component-characters), however, for discovering and comparing compounds, the latter is better
 
-### New Japanese-English Character Dictionary
+#### New Japanese-English Character Dictionary
 
 | Property            | Value               |
 |---------------------|---------------------|
@@ -174,7 +182,7 @@ Conclusion:
 - 6 lookup methods (see https://www.kanji.org/dictionaries/njecd/njecd.htm) and 3 indexes
 - Readable layout with labels for sections
 
-## The Kodansha Kanji Learner's Dictionary
+### The Kodansha Kanji Learner's Dictionary
 
 | Property            | Value               |
 |---------------------|---------------------|
@@ -189,7 +197,7 @@ Conclusion:
 
 - Reduced version of [The Kodansha Kanji Dictionary](#the-kodansha-kanji-dictionary)
 
-## Kodansha's Essential Kanji Dictionary
+### Kodansha's Essential Kanji Dictionary
 
 | Property            | Value               |
 |---------------------|---------------------|
@@ -216,7 +224,7 @@ Cons:
   - No concise translation for each kanji next to the head character like in many other dictionaries
   - Includes radical names only at the beginning of each radical section, but not in the radical index (not possible to easily compare with the _real_ set of 214 Kangxi radicals)
 
-### Kodansha's Compact Kanji Guide
+#### Kodansha's Compact Kanji Guide
 
 | Property            | Value               |
 |---------------------|---------------------|
@@ -231,7 +239,9 @@ Cons:
 
 - Predecessor of [Kodansha's Essential Kanji Dictionary](#kodanshas-essential-kanji-dictionary)
 
-## The New Nelson Japanese-English Character Dictionary
+## Nelson
+
+### The New Nelson Japanese-English Character Dictionary
 
 | Property            | Value               |
 |---------------------|---------------------|
@@ -263,7 +273,7 @@ Conclusion:
 
 - TODO: how does it complement [The Kanji Dictionary](#the-kanji-dictionary-find-any-compound-using-any-of-its-component-characters) and [The Kodansha Kanji Learner's Dictionary](#the-kodansha-kanji-learners-dictionary)?
 
-### The Modern Reader's Japanese-English Character Dictionary
+#### The Modern Reader's Japanese-English Character Dictionary
 
 | Property            | Value               |
 |---------------------|---------------------|
@@ -291,7 +301,7 @@ Cons:
   - Compounds do not include the kanji itself
   - Includes only compounds where the kanji in question is at the first position
 
-## The Compact Nelson Japanese-English Character Dictionary
+### The Compact Nelson Japanese-English Character Dictionary
 
 | Property            | Value               |
 |---------------------|---------------------|
@@ -306,7 +316,9 @@ Cons:
 
 - Reduced version of [The New Nelson Japanese-English Character Dictionary](#the-new-nelson-japanese-english-character-dictionary)
 
-## Direct Access Instant Kanji Dictionary (漢字早引き字典)
+## Other
+
+### Direct Access Instant Kanji Dictionary (漢字早引き字典)
 
 | Property            | Value               |
 |---------------------|---------------------|
@@ -323,7 +335,7 @@ Cons:
 
 - **Format:** very small and compact
 
-## Japanese-English Code Dictionary
+### Japanese-English Code Dictionary
 
 | Property            | Value               |
 |---------------------|---------------------|

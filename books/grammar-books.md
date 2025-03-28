@@ -29,6 +29,7 @@
   - [A Dictionary of Japanese Particles](#a-dictionary-of-japanese-particles)
   - [Making Sense of Japanese](#making-sense-of-japanese)
   - [How to Sound Intelligent in Japanese](#how-to-sound-intelligent-in-japanese)
+  - [Effective Japanese Usage Dictionary: A Concise Explanation of Frequently Confused Words and Phrases](#effective-japanese-usage-dictionary-a-concise-explanation-of-frequently-confused-words-and-phrases)
 
 <!-- vim-markdown-toc -->
 
@@ -429,3 +430,21 @@
 🔄 Check
 
 - Probably unnecessary as words can just be looked up in a dictionary.
+
+### Effective Japanese Usage Dictionary: A Concise Explanation of Frequently Confused Words and Phrases 
+
+| Property                  | Value                                                                      |
+|---------------------------|----------------------------------------------------------------------------|
+| Author(s)                 | Masayoshi Hirose, Kakuko Shoji                                             |
+| Edition                   | 1                                                                          |
+| Year of first publication | 1994                                                                       |
+| Publisher                 | Kodansha                                                                   |
+| Pages                     | 768                                                                        |
+| Binding                   | Paperback                                                                  |
+| Links                     | [Amazon US](https://a.co/d/fNyEpPl), [Amazon JP](https://amzn.asia/d/6Fh6aTu) |
+
+- Explains the difference between words with a similar meaning that are often confused, for example, きれい and 美しい, or 悲しい and 寂しい
+- Provides many example sentences for all words
+- Contains 302 entries with 708 words
+
+✅ Very useful

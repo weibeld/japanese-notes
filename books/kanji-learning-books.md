@@ -1,4 +1,4 @@
-# Japanese Kanji Books
+# Kanji Learning Books
 
 <!-- vim-markdown-toc GFM -->
 

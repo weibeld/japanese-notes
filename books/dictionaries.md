@@ -12,6 +12,7 @@
   - [Kodansha's Basic English-Japanese Dictionary](#kodanshas-basic-english-japanese-dictionary)
   - [The Modern English-Nihongo Dictionary (Kodansha)](#the-modern-english-nihongo-dictionary-kodansha)
   - [Kodansha's Communicative English-Japanese Dictionary](#kodanshas-communicative-english-japanese-dictionary)
+  - [Kenkyusha's Furigana English-Japanese Dictionary](#kenkyushas-furigana-english-japanese-dictionary)
 - [Bidirectional](#bidirectional)
   - [Kodansha's Furigana Japanese Dictionary](#kodanshas-furigana-japanese-dictionary)
   - [Oxford Beginner's Japanese Dictionary](#oxford-beginners-japanese-dictionary)
@@ -183,12 +184,38 @@
 | Pages               | 1178                |
 | Dimensions          | 13.97×19.05×5.08 cm |
 | Binding             | Hardcover           |
-| Link                | [Amazon](https://a.co/d/7BzAg0N) |
+| Headwords           | ~22,000             |
+| Link                | [Amazon US](https://a.co/d/7BzAg0N), [Amazon DE](https://amzn.eu/d/cZPJxEf), [Amazon JP](https://amzn.asia/d/37Imvr3) |
 
 **Notes:**
 
-- Entries in kanji with furigana (no romaji or pure kana).
-- Focus on example sentences and usage of words and word combinations.
+- Entries in kanji with furigana (no romaji or standalone kana).
+- Focus on usage of words, word combinations, example sentences.
+- Includes illustrations and side boxes with various information (e.g. usage of a kanji in various words)
+- Includes appendices with grammar notes, postal address notes, etc.
+- ✅ All in all, useful dictionary
+- ⚠️  On Amazon literally unavailable, except on Amazon JP for about JPY 10,000
+
+### Kenkyusha's Furigana English-Japanese Dictionary
+
+| Property            | Value               |
+|---------------------|---------------------|
+| Author              | Kenkyusha           |
+| Edition             | 2                   |
+| Year of publication | 2008                |
+| Publisher           | Kenkyusha           |
+| Pages               | 1235                |
+| Dimensions          | N/A                 |
+| Binding             | Paperback           |
+| Headwords           | ~56,000             |
+| Link                | [Amazon](https://a.co/d/idKiCVk) |
+
+- Entries in kanji with furigana
+- Includes many headwords
+- Very short entries with almost not indications about word usage, etc., often the desired information is not contained or cannot be easily found.
+- Entries are hard to parse.
+- ❌ All in all, not recommended.
+
 
 ## Bidirectional
 
