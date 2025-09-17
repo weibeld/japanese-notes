@@ -21,8 +21,6 @@ These two code blocks are listed below.
 
 The Kangxi Radicals code block includes the parent versions of all the Kangxi radicals, i.e. the traditional main versions of the radicals without their variants (if any). The variants of any of these radicals are included in the [CJK Radicals Supplement](#cjk-radicals-supplement) code block.
 
-
-
 The ordering and numbering is fixed and corresponds to the traditional ordering of the Kangxi radicals (i.e., for example "Radical 11" deterministially means ⼊ (Enter) with code point U+2F0A).
 
 |   # | Code point | Char | Name              |
