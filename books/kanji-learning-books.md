@@ -5,6 +5,7 @@
 - [Remembering the Kanji (3 Volumes)](#remembering-the-kanji-3-volumes)
 - [The Complete Guide to Japanese Kanji](#the-complete-guide-to-japanese-kanji)
   - [A Guide to Remembering Japanese Characters](#a-guide-to-remembering-japanese-characters)
+- [2001 Kanji: Structure Analysis, Association Method, Fully Cross Referenced, Fast Visual Index](#2001-kanji-structure-analysis-association-method-fully-cross-referenced-fast-visual-index)
 - [Kanji und Kana: Die Welt der japanischen Schrift in einem Band](#kanji-und-kana-die-welt-der-japanischen-schrift-in-einem-band)
   - [Japanese Kanji & Kana: A Complete Guide to the Japanese Writing System](#japanese-kanji--kana-a-complete-guide-to-the-japanese-writing-system)
   - [Kanji & Kana: Lehrbuch und Lexikon der japanischen Schrift](#kanji--kana-lehrbuch-und-lexikon-der-japanischen-schrift)
@@ -66,6 +67,22 @@
 | Link                | [Amazon](https://a.co/d/gL92F9y) |
 
 - Predecessor version of [The Complete Guide to Japanese Kanji](#the-complete-guide-to-japanese-kanji).
+
+## 2001 Kanji: Structure Analysis, Association Method, Fully Cross Referenced, Fast Visual Index
+
+| Property            | Value                                                                                           |
+|---------------------|-------------------------------------------------------------------------------------------------|
+| Author              | Joseph R. De Roo                                                                                |
+| Edition             | 1                                                                                               |
+| Year of publication | 1980                                                                                            |
+| Publisher           | Institute of Japanese Studies, St. Joseph's Friary, Roppongi, Tokyo                             |
+| Pages               | 119                                                                                             |
+| Dimensions          | -                                                                                               |
+| Kanji coverage      | 2001                                                                                            |
+| Link                | [Amazon](https://www.amazon.com/Structure-Analysis-Association-Method-Referenced/dp/B000LBB480) |
+
+- Similar approach as Heisig (Remembering the Kanji) and Henshall (The Complete Guide to Japanese Kanji) in describing the components that make up a kanji, but also includes a visual indexing and lookup method (De Roo System)
+- Out of print and difficult to obtain
 
 ## Kanji und Kana: Die Welt der japanischen Schrift in einem Band
 
