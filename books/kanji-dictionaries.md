@@ -184,30 +184,31 @@ Conclusion:
 
 ### The Kodansha Kanji Learner's Dictionary
 
-| Property            | Value               |
-|---------------------|---------------------|
-| Author              | Jack Halpern        |
-| Edition             | 2                   |
-| Year of publication | 2022                |
-| Publisher           | Kodansha            |
-| Pages               | 1201                |
-| Dimensions          | 13.13×18.34 cm    |
-| Kanji coverage    | ~3000               |
+| Property            | Value                               |
+|---------------------|-------------------------------------|
+| Author              | Jack Halpern                        |
+| Edition             | 2                                   |
+| Year of publication | 2022 (2013, 1999)                   |
+| Publisher           | Kodansha                            |
+| Pages               | 1201                                |
+| Dimensions          | 13.13×18.34 cm                      |
+| Kanji coverage      | ~3000                               |
 | Link                | [Amazon](https://amzn.eu/d/cQ7Mi5A) |
 
-- Reduced version of [The Kodansha Kanji Dictionary](#the-kodansha-kanji-dictionary)
+- Successor work of [New Japanese-English Character Dictionary](#new-japanese-english-character-dictionary)
+- [Initial publication](https://www.kanji.org/dictionaries/learners/learners.htm) in 1999, [first edition of revised and expanded version](https://www.kanji.org/dictionaries/KKLD/learnrev.htm) in 2013 
 
 ### Kodansha's Essential Kanji Dictionary
 
-| Property            | Value               |
-|---------------------|---------------------|
-| Author              | Kodansha            |
-| Edition             | 1                   |
-| Year of publication | 2012 (2002)         |
-| Publisher           | Kodansha            |
-| Pages               | 928                 |
-| Dimensions          | 12.95×18.03 cm      |
-| Kanji coverage      | ~2000               |
+| Property            | Value                            |
+|---------------------|----------------------------------|
+| Author              | Kodansha                         |
+| Edition             | 1                                |
+| Year of publication | 2012 (2002)                      |
+| Publisher           | Kodansha                         |
+| Pages               | 928                              |
+| Dimensions          | 12.95×18.03 cm                   |
+| Kanji coverage      | ~2000                            |
 | Link                | [Amazon](https://a.co/d/7PZrJYl) |
 
 - Uses the Kangxi radical indexing system
